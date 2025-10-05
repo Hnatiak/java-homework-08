@@ -1,9 +1,5 @@
 package com.example.graphics;
 
-/**
- * Абстрактний базовий клас для всіх фігур.
- * Має методи для отримання і виведення назви фігури.
- */
 public abstract class Shape implements Nameable, Drawable {
     private final String typeName;
     protected double x;

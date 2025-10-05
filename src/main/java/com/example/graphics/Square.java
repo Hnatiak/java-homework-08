@@ -1,8 +1,5 @@
 package com.example.graphics;
 
-/**
- * Square успадковує Rectangle, але повертає власну назву.
- */
 public class Square extends Rectangle {
     public Square(double side, double x, double y) {
         super(side, side, x, y);

@@ -13,8 +13,8 @@ public class App {
         };
 
         for (Shape s : shapes) {
-            printer.printShapeName(s);   // працює однаково для всіх фігур
-            s.draw();                   // демонструємо поліморфізм draw()
+            printer.printShapeName(s);
+            s.draw();
             System.out.println("---");
         }
     }

@@ -1,8 +1,5 @@
 package com.example.graphics;
 
-/**
- * Простий приклад трикутника — зберігаємо довжини сторін.
- */
 public class Triangle extends Shape {
     private final double a, b, c;
 
