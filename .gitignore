@@ -20,6 +20,7 @@ target/
 *.swp
 *.bak
 *.class
+*.gradle
 
 # System files
 .DS_Store
